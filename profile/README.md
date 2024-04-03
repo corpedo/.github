@@ -1,4 +1,4 @@
-## Hi there 👋
+# QVL 👋
 
 **Here are some ideas to get you started:**
 
@@ -10,8 +10,7 @@
 
 ## We are focus on:
 
+* Go
 * Nim
 * Node.js
 * Bun.js
-* Go
-* Lemon
