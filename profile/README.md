@@ -5,5 +5,4 @@ Quality and Velocity unLimited
 
 * Go
 * Nim
-* Node.js
 * Bun.js
