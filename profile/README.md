@@ -1,7 +1,7 @@
 # Corpedo
 > Quality and Velocity unLimited
 
-## We are have focus on:
+## We are have primary focus on:
 
 * Go
 * Nim
